@@ -1,0 +1,19 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "This project is maintained through [Apache 2.0](https://github.com/Encryption-API-Services/Node-API/blob/main/LICENSE).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encryption-API-Services/Node-API.git"
+  },
+  "author": "Mike Mulchrone",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Encryption-API-Services/Node-API/issues"
+  },
+  "homepage": "https://github.com/Encryption-API-Services/Node-API#readme"
+}
