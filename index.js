@@ -16,4 +16,5 @@ app.use("/static", express.static("static")) // to set a folder for static file 
 /////////////////////////////////////
 
 // Server Listener
-app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
+app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
+console.log("testing");
